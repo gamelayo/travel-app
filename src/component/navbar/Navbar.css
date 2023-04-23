@@ -17,10 +17,14 @@
 }
 li {
   padding: 0 1rem;
+  cursor: pointer;
 }
 .hamburger-menu {
   display: none;
   /* padding: 1rem; */
+}
+.logo {
+  cursor: pointer;
 }
 
 .mobile-menu {
