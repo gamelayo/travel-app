@@ -64,7 +64,7 @@ const Search = () => {
                 <input type="date" />
               </div>
               <div className="input-wrap">
-                <label htmlFor="Check-Out"></label>
+                <label>Check-Out</label>
                 <input type="date" />
               </div>
             </div>
